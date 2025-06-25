@@ -47,7 +47,7 @@ Developed as part of our academic curriculum, this project demonstrates practica
 
 ## 🎓 Developed By
 
-- Parth Karena(Group Representative)
+- Parth Karena (Group Representative)
 - Pranav Bavadiya
 - Bhaumik Luhar
 - For B.Tech Semester Project - DBMS
